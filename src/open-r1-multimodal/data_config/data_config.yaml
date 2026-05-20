@@ -1,0 +1,2 @@
+datasets:
+  - json_path: /src/data/koniq_training.json
